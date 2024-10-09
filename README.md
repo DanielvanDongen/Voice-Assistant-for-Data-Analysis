@@ -10,10 +10,8 @@ Excel is one of the most widely used tools for data analysis, reporting, and vis
 
 ## Features
 
-- **Voice-controlled Excel navigation**: Open workbooks, switch between sheets, and navigate through cells with voice commands.
 - **Automated report generation**: The assistant can automatically generate charts, pivot tables, or reports based on existing data.
 - **Voice-driven data analysis**: Users can query and perform calculations through spoken commands, e.g., "Show the sales for the last quarter" or "Create a bar chart for revenue."
-- **Interactive data output**: Analysis results are returned directly into Excel and visualized in real-time.
 - **User-friendly**: Reduces the need for manual Excel interaction, making it particularly helpful for users with limited Excel expertise.
 
 ## Use Case
@@ -26,10 +24,9 @@ This project is specifically designed to improve the productivity of business an
 ## Systemarchitecture
 
 The project integrates various technologies to enable voice control and Excel interactions:
-- **Natural Language Processing (NLP)**: For understanding and processing voice commands.
-- **Speech-to-Text APIs**: To convert spoken language into machine-readable instructions (e.g., Google Cloud Speech API).
-- **Python and OpenPyXL**: Python scripts manage Excel interactions, with OpenPyXL handling Excel file modifications.
-- **Microsoft Excel API**: Direct integration with Excel for dynamic data manipulation and reporting.
+- **OpenAI Assistant Code Interpreter**: For understanding and processing voice commands.
+- **Speech-to-Text APIs**: To convert spoken language into machine-readable instructions (Google Cloud Speech API).
+
 
 ## Diagrams and Illustrations
 
