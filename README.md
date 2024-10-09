@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to develop a voice-controlled assistant to enhance the efficiency and user experience in data analysis and report generation within Microsoft Excel. The **Voice User Interface (VUI)** enables users to interact with Excel via voice commands, providing an intuitive and fast way to handle complex data tasks.
+This project aims to develop a voice-controlled assistant to enhance the efficiency and user experience in data analysis and reporting. The **Voice User Interface (VUI)** enables users to use analyse Excel-files via voice commands, providing an intuitive and fast way to handle complex data tasks.
 
 ### Background
 
