@@ -30,7 +30,7 @@ The project integrates various technologies to enable voice control and Excel in
 
 ## Diagrams and Illustrations
 
-![System_architecture](systemarchitecture.png)
+![System_architecture](https://github.com/DanielvanDongen/Voice-Assistant-for-Data-Analysis/blob/main/system_architecture.png)
 
 Future Developments
 
